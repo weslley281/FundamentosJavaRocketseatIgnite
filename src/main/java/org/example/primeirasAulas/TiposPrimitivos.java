@@ -1,4 +1,4 @@
-package org.example;
+package org.example.primeirasAulas;
 
 public class TiposPrimitivos {
     public static void main(String[] args) {

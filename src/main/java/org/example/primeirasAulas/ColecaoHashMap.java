@@ -1,9 +1,9 @@
-package org.example;
+package org.example.primeirasAulas;
 
 import java.util.HashMap;
 import java.util.Map;
 
-public class Colecoes {
+public class ColecaoHashMap {
     public static void main(String[] args) {
         Map<String, Integer> notas = new HashMap<>();
         notas.put("Fulano", 10);
