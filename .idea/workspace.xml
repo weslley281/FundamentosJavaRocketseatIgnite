@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="796c2b6d-c966-4e4c-8724-ce205d49b8a1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pessoa/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pessoa/TesteDePessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/primeirasAulas/ColecaoHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/conta/ContaBancaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/conta/TesteContaBancaria.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Colecoes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/primeirasAulas/ColecaoHashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/EstruturaDeDados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/primeirasAulas/EstruturaDeDados.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/TiposPrimitivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/primeirasAulas/TiposPrimitivos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
